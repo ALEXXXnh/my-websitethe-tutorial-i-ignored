@@ -12,8 +12,8 @@ body {
 
 .custom-cursor {
     position: fixed;
-    width: 120px;
-    height: 120px;
+    width: 11%;
+    height: 11%;
     pointer-events: none;
     display: flex;
     top: 0;
@@ -47,13 +47,14 @@ h1 {
 }
 
 p{
+    position: absolute;
     color: rgb(8, 4, 36);
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    position: absolute;
+    
     text-align: center;
     
-    top: 300px;
+    top: 25%;
     padding: 20%;
 
     z-index: 99;
@@ -61,53 +62,73 @@ p{
 
 
 
-.star{
-    position: relative;
-    width: 400px;
-    height: auto;
-    top: 50px;
-    left: 60px;
-    z-index: 98;
-}
 
-.star2{
-    position: relative;
-    width: 400px;
-    height: auto;
-    top: 250px;
-    left: 600px;
-    z-index: 97;
-}
 
 .bg {
     position: absolute;
     width: 600px;
     height: auto;
-    top: 450px;
+    top: 45%;
     left: 50%;
     transform: translateX(-50%);
-    z-index: 96;
+    z-index: 49;
 }
 
-.side{
-    position: relative;
+
+
+
+
+.star{
+    position: absolute;
+    width: 450px;
+    height: auto;
+    top: 0;
+    left: 20%;
+    z-index: 50;
+}
+.star:hover {
+    filter: brightness(111%);
+}
+
+.star2{
+    position:absolute;
     width: 400px;
+    height: auto;
+    top: 250px;
+    left: 60%;
+    z-index: 50;
+}
+.star2:hover {
+    filter: brightness(108%);
+}
+
+
+.side{
+    position: absolute;
+    width: 600px;
     height: auto;
     top: 500px;
     transform: rotate(90deg);
-    left: -67%;
-    z-index: 101;
+    left: 0%;
+    
+}
+.side:hover {
+    filter: brightness(111%);
+    
 }
 
 
 /*BUTTONS*/
 #action-buttons {
+    position: absolute;
     align-items: center;
     width: 600px;
     margin-top: 600px;
     justify-content: center;
     width: 1800px;
     height: fit-content;
+    top: 40%;
+    z-index: 51;
 }
 
 
