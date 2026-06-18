@@ -24,7 +24,7 @@ something basic but cute
 
 not so much but maybe i'll work more later
 
--15/06 9-10 p.m. Today progress:
+- 15/06 9-10 p.m. Today progress:
 -created a 2nd linked page
 -made html and css of this new page
 -linked js
@@ -33,7 +33,7 @@ not so much but maybe i'll work more later
 
 a lil progress but important
 
-- 16/06 4-6:30 a.m.
+- 16/06 4-6:30 a.m. Today progress:
 -created an password page
 -created back buttons for else linked pages
 -made html and css for password page
@@ -41,6 +41,14 @@ a lil progress but important
 -replaced decorations
 
 a lot of "boring" work, just not so funny but important
+
+- 17/06 10-1:20 p.m. Today progress:
+-built photos html
+-built photos css
+-added decorations
+-details like cursor follower, favicon, interactive decs...
+
+small progress but necessary, soon i'll start with the real hard work (the password)
 
 ## Preview
 

@@ -6,8 +6,7 @@ body {
     text-align: center;
     height: auto;
     width: 1500px;
-
-    cursor: none;
+ cursor: none;
 }
 .custom-cursor {
     position: fixed;
@@ -51,6 +50,7 @@ h2 {
     z-index: 4;
     
 }
+   
 
 
 /*BUTTONS*/
