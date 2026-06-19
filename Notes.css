@@ -1,0 +1,93 @@
+body {
+    
+    width: 1000px;
+    height: auto;
+
+    background-color: #ffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    align-items: center;
+    justify-content: center;
+    
+    cursor: none;
+}
+
+h3 {
+    font-family: fantasy;
+    font-size: 90px;
+    position: absolute;
+    left: 25%;
+    top: 10%;
+    color: #54aefd;
+    border: 40px #a3d4ff;
+    text-align: center;
+    width: 900px;
+    z-index: 5;
+}
+h3:hover {
+    filter: brightness(109%);
+}
+
+h2 {
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    left: 2%;
+    top: 4%;
+    color: #a3d4ff;
+    z-index: 3;
+}
+H2:hover {
+    filter: brightness(109%);
+    transform: scale(0.9, 0.9);
+}
+
+
+
+
+
+
+
+
+
+
+.custom-cursor {
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    pointer-events: none;
+    display: flex;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    z-index: 999;
+}
+
+.back-button {
+    position: absolute;
+    top: 0;
+    left: 0%;
+    width: 12%;
+    height: auto;
+    z-index: 2;
+}
+.back-button:hover {
+    transform: scale(1.1, 1.1);
+}
+
+.title {
+    position: absolute;
+    width: 1080px;
+    height: auto;
+    top: 0%;
+    left: 21%;
+    z-index: 4;
+}
+
+.stars {
+    position: absolute;
+    width: 25%;
+    height: auto;
+    right: 0%;
+    top: 0%;
+}

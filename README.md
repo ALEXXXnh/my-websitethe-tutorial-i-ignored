@@ -5,6 +5,8 @@ i made a project bf and didn't know this
 
 HIIIII i decided to trnsform this stupid basic site to smt functional
 now i'm working on making this a website to hide and save my docs what can save me from a crime, bc I'm in a very hard situation and I want to survive, so i need evidence, idk if this is acceptable for a ship but idc I just want to build this and practice all i know about creating websites
+
+*
 - 13/06 7-9 am.m I made...
 -html
 -put images
@@ -15,6 +17,7 @@ now i'm working on making this a website to hide and save my docs what can save 
 
 something basic but cute
 
+*
 - 14/06 6-7 a.m. Today I made...
 -a second page linked to first one
 -built html on second page
@@ -24,6 +27,7 @@ something basic but cute
 
 not so much but maybe i'll work more later
 
+*
 - 15/06 9-10 p.m. Today progress:
 -created a 2nd linked page
 -made html and css of this new page
@@ -33,6 +37,7 @@ not so much but maybe i'll work more later
 
 a lil progress but important
 
+*
 - 16/06 4-6:30 a.m. Today progress:
 -created an password page
 -created back buttons for else linked pages
@@ -42,6 +47,7 @@ a lil progress but important
 
 a lot of "boring" work, just not so funny but important
 
+*
 - 17/06 10-1:20 p.m. Today progress:
 -built photos html
 -built photos css
@@ -49,6 +55,18 @@ a lot of "boring" work, just not so funny but important
 -details like cursor follower, favicon, interactive decs...
 
 small progress but necessary, soon i'll start with the real hard work (the password)
+
+*
+- 18/06 9-11 p.m. Today progress:
+-created and edited last linked page html
+-designed "notes" css
+-added effects
+-fixed bugs
+
+last html&css creation, maybe i'll have to edit it later because some bugs in da pages lol
+
+*
+
 
 ## Preview
 
