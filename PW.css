@@ -28,7 +28,7 @@ h3{
     
     position: absolute;
     padding: 0;
-    top: 56px;
+    top: 3%;
     left: 50%;
     transform: translateX(-50%);
     font-family:Georgia, cursive, fantasy, monospace;
@@ -37,19 +37,60 @@ h3{
     z-index: 100;
 }
 h3:hover {
-    filter: brightness(112%);
+    filter: brightness(106%);
 }
+
+
+
+
+
+
+
+
+
+
+/*NO SCRIPT*/
+.back-button {
+    position: absolute;
+    top: -10%;
+    left: -5%;
+    width: 20%;
+    height: auto;
+}
+.back-button:hover {
+    filter: brightness(111%);
+    transform: scale(1.24, 1.24);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*THIS NEEDS A SCRIPT FOR PASSWORD*/
 h2 {
     color: rgb(181, 203, 240);
-    font-size: 50px;
-    font-family: cursive;
+    font-size: 480%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     position: absolute;
-    top: 5%;
+    top: 0%;
     left: 12%;
     border: 5px;
     border-color: aliceblue;
 }
+h2:hover {
+    filter: brightness(106%);
+    transform: scale(1.07, 1.07);
+}
 
+
+/*IDK WHY THIS DOES EXIST BUT MAYBE I'LL NEED IT LATER*/
 p {
     font-family: fantasy, cursive;
     font-size: 60px;
@@ -62,17 +103,13 @@ p {
 
 
 
-.back-button {
-    position: absolute;
-    top: -10%;
-    left: -5%;
-    width: 20%;
-    height: auto;
-}
-.back-button:hover {
-    filter: brightness(111%);
-}
 
+
+/*SCRIPT NEEDED*/
+
+
+
+/*this is the big image that holds the input text*/
 .enter {
     position: relative;
     top: 30%;
@@ -83,11 +120,13 @@ p {
     filter: brightness(104%);
 }
 
+/*this is the input text*/
 .BOX {
     background-color: rgb(214, 230, 255) ;
     padding: 30px;
     text-align: center;
     position: absolute;
+    display: block;
     top: 57%;
     width: 300px;
     border: #7bbdf7;
@@ -99,6 +138,7 @@ p {
     filter: brightness(106%);
 }
 
+/*this is the press to enter passwor button*/
 .press {
     position: absolute;
     top: 47%;
@@ -109,6 +149,7 @@ p {
     filter: brightness(109%);
     transform: scale(1.1.2,1.1.2);
 }
+/*this is the hover for the p that says the big "ENTER"*/
 p:hover {
     filter: brightness(106%);
     transform: scale(1.4,1.4);

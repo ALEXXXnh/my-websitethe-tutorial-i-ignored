@@ -66,8 +66,16 @@ small progress but necessary, soon i'll start with the real hard work (the passw
 last html&css creation, maybe i'll have to edit it later because some bugs in da pages lol
 
 *
+- 19/06 10-12 p.m.  Today progress:
+-fixed some htmland css bugs
+-ended up to build 'notes'
+-wrote my first entry on the journal
+-tried to weite a script but naaahhh
 
+Ik maybe this hpur seems lazy but I was really focused on trying to understand what script should I chooses
 
+*
+- 
 ## Preview
 
 ![Website Preview](https://cdn.hackclub.com/019e0663-7578-7a94-af35-463b428ca725/screenshot.png)

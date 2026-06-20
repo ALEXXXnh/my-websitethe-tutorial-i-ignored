@@ -42,6 +42,25 @@ H2:hover {
     transform: scale(0.9, 0.9);
 }
 
+h1 {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    left: 20%;
+    color: #54aefd;
+    top: 0%;
+}
+
+p {
+    position: absolute;
+    font-family:  Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    width: 1200px;
+    left: 20%;
+    color: #1f68a8;
+    top: 10%;
+}
 
 
 
@@ -74,6 +93,32 @@ H2:hover {
 .back-button:hover {
     transform: scale(1.1, 1.1);
 }
+
+
+
+
+.one {
+    position: absolute;
+    top: 1000px;
+    left: 20%;
+    
+}
+.one1 {
+    position: absolute;
+    top: -70px;
+    width: 600px;
+    left: -55px;
+    background-color: #a3d4ff;
+}
+.one12 {
+    position: absolute;
+    top: 30px;
+    
+}
+
+
+
+
 
 .title {
     position: absolute;
