@@ -1,1 +1,1 @@
-const idk lol pls help im suffering
+const password = document.getElementById 

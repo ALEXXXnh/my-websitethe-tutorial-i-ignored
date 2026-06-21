@@ -19,7 +19,7 @@ body {
     top: 0;
     left: 0;
     background-color: transparent;
-    z-index: 122;
+    z-index: 999;
 }
 
 h3{
@@ -50,16 +50,30 @@ h3:hover {
 
 
 /*NO SCRIPT*/
+.BB{
+    position: relative;
+    width: 100%;
+    top: 0%;
+    left: 0;
+}
+
+
+
+
+
+
+
 .back-button {
     position: absolute;
-    top: -10%;
-    left: -5%;
-    width: 20%;
+    top: 0%;
+    left: 0%;
+    width: 12%;
     height: auto;
+    z-index: 899;
 }
 .back-button:hover {
     filter: brightness(111%);
-    transform: scale(1.24, 1.24);
+    transform: scale(1.14, 1.14);
 }
 
 
@@ -68,12 +82,6 @@ h3:hover {
 
 
 
-
-
-
-
-
-/*THIS NEEDS A SCRIPT FOR PASSWORD*/
 h2 {
     color: rgb(181, 203, 240);
     font-size: 480%;
@@ -83,21 +91,12 @@ h2 {
     left: 12%;
     border: 5px;
     border-color: aliceblue;
+    z-index: 900;
+    
 }
 h2:hover {
     filter: brightness(106%);
-    transform: scale(1.07, 1.07);
-}
-
-
-/*IDK WHY THIS DOES EXIST BUT MAYBE I'LL NEED IT LATER*/
-p {
-    font-family: fantasy, cursive;
-    font-size: 60px;
-    color: #7bbdf7;
-    position: absolute;
-    top: 67%;
-    left: 67%;
+    transform: scale(1.17, 1.17);
 }
 
 
@@ -105,16 +104,39 @@ p {
 
 
 
+
+
+/*THIS NEEDS A SCRIPT FOR PASSWORD*/
 /*SCRIPT NEEDED*/
 
 
 
-/*this is the big image that holds the input text*/
-.enter {
+
+
+.holder{
     position: relative;
-    top: 30%;
-    left: 10%;
-    width: 900px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+/*The div that holds the box where you type the password*/
+#password-box{
+    position: relative;
+    top: 0%;
+    left: 7%;
+    width: 100%;
+}
+
+/*this is the big image that holds the input text*/
+
+.enter {
+    position: absolute;
+    display: block;
+    top: 0%;
+    left: 25%;
+    width: 60%;
 }
 .enter:hover {
     filter: brightness(104%);
@@ -123,33 +145,63 @@ p {
 /*this is the input text*/
 .BOX {
     background-color: rgb(214, 230, 255) ;
-    padding: 30px;
+    padding: 0px;
     text-align: center;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     position: absolute;
-    display: block;
-    top: 57%;
-    width: 300px;
+    top: 164%;
+    
+    width: 25%;
     border: #7bbdf7;
     border: 40px;
-    left: 47%;
+    left: 97%;
     z-index: 100;
 }
 .BOX:hover {
     filter: brightness(106%);
 }
+/*This is the div for the input text*/
+.input-text {
+    position: relative;
+    padding-top: 22%;
+    top: 20%;
+    left: -45%;
+}
 
-/*this is the press to enter passwor button*/
+
+
+
+
+/*this is the div for press to enter password button*/
+.ENTER {
+    position: absolute;
+    top: 67%;
+    left: 67%;
+} 
+
+/*The image*/
 .press {
     position: absolute;
-    top: 47%;
-    left: 60%;
+    top: -97%;
+    left: -40%;
     width: 400px;
-}
+} 
 .press:hover {
     filter: brightness(109%);
     transform: scale(1.1.2,1.1.2);
+}/*the image*/
+
+
+/*this is p that says the big "ENTER"*/
+p {
+    font-family: fantasy, cursive;
+    font-size: 60px;
+    color: #7bbdf7;
+    position: relative;
+    top: 67%;
+    left: 67%;
 }
-/*this is the hover for the p that says the big "ENTER"*/
 p:hover {
     filter: brightness(106%);
     transform: scale(1.4,1.4);
