@@ -91,6 +91,15 @@ Ik maybe this hpur seems lazy but I was really focused on trying to understand w
 
 OKAY I FINALLY MADE THE HARDEST PART, now I have to do the boring thing, fill all documents, but I can tell almost 90% of the logged time was spent on js, really hard for me btw.
 
+*
+- 22/06 Final progress:
+-i filled the images with examples
+-I deleted not necessary information
+-I added effects to the example imgs
+
+Thats all, nice project very funny and I liked all I new thins about js I learned, also I practiced a lot html&css and I think It was easier but I still needing practice.
+
+
 ## Preview
 
 ![Website Preview](https://cdn.hackclub.com/019e0663-7578-7a94-af35-463b428ca725/screenshot.png)

@@ -112,3 +112,27 @@ p{
 .star:hover {
     filter: brightness(111%);
 }
+
+
+
+
+
+
+.examples {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60%;
+    top: 70%;
+}
+.examples:hover {
+    filter: brightness(119%);
+}
+
+h1{
+    position: absolute;
+    bottom: -1000%;
+    color: #ff5151;
+    left: 50%;
+    transform: translateX(-50%);
+}
