@@ -74,8 +74,23 @@ last html&css creation, maybe i'll have to edit it later because some bugs in da
 
 Ik maybe this hpur seems lazy but I was really focused on trying to understand what script should I chooses
 
+* 
+- 20/06 9-11 p.m. Today progress:
+-fixed some css bugs in the password board
+-linked all other pages to password board
+-changed the functions from password board for all other pages
+
 *
-- 
+- 21/06 9-10 p.m. Today progress:
+-added js to make the password
+-linked js to html from password board
+-created and edited an js and a password board for every linked page
+-changed the links from index to redirect them to each password board
+-added and changed global settings foe each password board
+-linked the protected pages to each js function
+
+OKAY I FINALLY MADE THE HARDEST PART, now I have to do the boring thing, fill all documents, but I can tell almost 90% of the logged time was spent on js, really hard for me btw.
+
 ## Preview
 
 ![Website Preview](https://cdn.hackclub.com/019e0663-7578-7a94-af35-463b428ca725/screenshot.png)
