@@ -1,12 +1,12 @@
 # My site
 **learned how to write a readme**
 i made a project bf and didn't know this
-- lol
+- demo: "https://alexxxnh.github.io/my-websitethe-tutorial-i-ignored/"
 
 HIIIII i decided to trnsform this stupid basic site to smt functional
 now i'm working on making this a website to hide and save my docs what can save me from a crime, bc I'm in a very hard situation and I want to survive, so i need evidence, idk if this is acceptable for a ship but idc I just want to build this and practice all i know about creating websites
 
-*
+*First session
 - 13/06 7-9 am.m I made...
 -html
 -put images
@@ -17,7 +17,7 @@ now i'm working on making this a website to hide and save my docs what can save 
 
 something basic but cute
 
-*
+*2nd session
 - 14/06 6-7 a.m. Today I made...
 -a second page linked to first one
 -built html on second page
@@ -27,7 +27,7 @@ something basic but cute
 
 not so much but maybe i'll work more later
 
-*
+*3th session
 - 15/06 9-10 p.m. Today progress:
 -created a 2nd linked page
 -made html and css of this new page
@@ -37,7 +37,7 @@ not so much but maybe i'll work more later
 
 a lil progress but important
 
-*
+*4th session
 - 16/06 4-6:30 a.m. Today progress:
 -created an password page
 -created back buttons for else linked pages
@@ -47,7 +47,7 @@ a lil progress but important
 
 a lot of "boring" work, just not so funny but important
 
-*
+*5th session
 - 17/06 10-1:20 p.m. Today progress:
 -built photos html
 -built photos css
@@ -56,7 +56,7 @@ a lot of "boring" work, just not so funny but important
 
 small progress but necessary, soon i'll start with the real hard work (the password)
 
-*
+*6th session
 - 18/06 9-11 p.m. Today progress:
 -created and edited last linked page html
 -designed "notes" css
@@ -65,7 +65,7 @@ small progress but necessary, soon i'll start with the real hard work (the passw
 
 last html&css creation, maybe i'll have to edit it later because some bugs in da pages lol
 
-*
+*7th session
 - 19/06 10-12 p.m.  Today progress:
 -fixed some htmland css bugs
 -ended up to build 'notes'
@@ -74,13 +74,13 @@ last html&css creation, maybe i'll have to edit it later because some bugs in da
 
 Ik maybe this hpur seems lazy but I was really focused on trying to understand what script should I chooses
 
-* 
+*8th session
 - 20/06 9-11 p.m. Today progress:
 -fixed some css bugs in the password board
 -linked all other pages to password board
 -changed the functions from password board for all other pages
 
-*
+*9th session
 - 21/06 9-10 p.m. Today progress:
 -added js to make the password
 -linked js to html from password board
@@ -91,7 +91,7 @@ Ik maybe this hpur seems lazy but I was really focused on trying to understand w
 
 OKAY I FINALLY MADE THE HARDEST PART, now I have to do the boring thing, fill all documents, but I can tell almost 90% of the logged time was spent on js, really hard for me btw.
 
-*
+*10th session
 - 22/06 Final progress:
 -i filled the images with examples
 -I deleted not necessary information
@@ -103,3 +103,9 @@ Thats all, nice project very funny and I liked all I new thins about js I learne
 ## Preview
 
 ![Website Preview](https://cdn.hackclub.com/019e0663-7578-7a94-af35-463b428ca725/screenshot.png)
+
+## Passwords
+1. ALEXSECURITYKEY2027DOCS
+2. ALEXSECURITYKEY2027PHOTOS
+3. ALEXSECURITYKEY2027SCHOOL
+4. ALEXSECURITYKEY2027NOTES
